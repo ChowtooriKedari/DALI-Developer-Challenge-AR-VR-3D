@@ -1,5 +1,7 @@
 # DALI-Developer-Challenge-AR-VR-3D
 The games files can be found here: https://drive.google.com/drive/folders/1Aa2sxnifeJE0X0CvQvUyt6lwRwUJaqkH?usp=share_link
+The complete project can be found here : https://drive.google.com/drive/folders/1vk_qVybfLqulpPxW5Wmcr1__AgdbzxTs?usp=share_link
+
 This is small space exploration game made in Unity. The player can move across the planets in a plane. The scene is equipped with galaxies, supernova, planets and stars.
 
 # A few screenshots from the Game
